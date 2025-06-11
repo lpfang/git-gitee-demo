@@ -6,5 +6,6 @@ int main() {
     std::cout << "Enjoy coding!" << std::endl;
     std::cout << "Goodbye!" << std::endl;
     std::cout << "End of program." << std::endl;
+    std::cout << "Thank you for using this program." << std::endl;
     return 0;
 }
